@@ -1,8 +1,8 @@
 import streamlit as st
-pip install spacy
+pip3 install spacy
 pip install google.generativeai
 pip install couchbase 
-pip install time
+pip3 install time
 import spacy
 import google.generativeai as genai
 from couchbase.cluster import Cluster
